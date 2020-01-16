@@ -3,7 +3,8 @@ package com.git;
 public class HelloGitTest {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("안녕하세요");
+		System.out.println("저녁 맛있게 드셨나용?");
 
 	}
 
